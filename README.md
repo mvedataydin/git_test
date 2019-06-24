@@ -1,0 +1,1 @@
+This is Vedat's first git project!
